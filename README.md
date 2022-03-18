@@ -25,8 +25,8 @@ Eu sou o Vinicius Campanha Sartori, mas pode me chamar de Vinaum!
 
 <div align="center">
   <a href="https://github.com/Vinaum">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Vinaum&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinaum&layout=compact&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vinaum&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinaum&layout=compact&theme=dracula"/>
 </div>
 
   
