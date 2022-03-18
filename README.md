@@ -9,6 +9,7 @@ Eu sou o Vinicius Campanha Sartori, mas pode me chamar de Vinaum!
 - 😄 Pronomes: Ele/Dele
 - 🤿 Estudo Golang, Ruby, Dart e Django
 - 👨‍🏫 Adoro falar sobre tecnologia e trocar conhecimentos em educação voltada para tech
+- 🌱 Life-long learner
 - 📫 vinicius.sartori@gmail.com
 
 🇬🇧 🇺🇸 
@@ -18,6 +19,7 @@ Eu sou o Vinicius Campanha Sartori, mas pode me chamar de Vinaum!
 - 😄 Pronoums: He/His
 - 🤿 Studying Golang, Ruby, Dart & Django
 - 👨‍🏫 I love to talk about Tech and Tech Education
+- 🌱 Life-long learner
 - 📫 vinicius.sartori@gmail.com
 
 
