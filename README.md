@@ -34,7 +34,6 @@ Eu sou o Vinicius Campanha Sartori, mas pode me chamar de Vinaum!
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciussartori//)](https://www.linkedin.com/in/viniciussartori/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lgdbittencourt)](https://twitter.com/viniciussartori)
 [![Gmail Badge](https://img.shields.io/badge/-vinicius.sartori@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vinicius.sartori@gmail.com)](mailto:vinicius.sartori@gmail.com)
-[![Site Badge](https://img.shields.io/badge/%20-curr%C3%ADculo%20lattes-lightgrey)](http://lattes.cnpq.br/6378055720340301)
 
 ##
   <div style="display: inline_block"><br>
