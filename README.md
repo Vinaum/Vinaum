@@ -1,4 +1,4 @@
-### Olá! Tudo beleza? 👋
+### E aí! Tudo beleza? 👋
 
 Eu sou o Vinicius Campanha Sartori, mas pode me chamar de Vinaum!
 
@@ -11,6 +11,7 @@ Eu sou o Vinicius Campanha Sartori, mas pode me chamar de Vinaum!
 - 👨‍🏫 Adoro falar sobre tecnologia e trocar conhecimentos em educação voltada para tech
 - 🌱 Life-long learner
 - 📫 vinicius.sartori@gmail.com
+- 🎓 <a href= "https://cursos.alura.com.br/user/vinaum/fullCertificate/2821a3600c4baf11ae98fc34662b45d5">Alguns cursos</a>
 
 🇬🇧 🇺🇸 
 - 🔭 Tech Recruiter @ **Pier Seguradora**
@@ -21,6 +22,7 @@ Eu sou o Vinicius Campanha Sartori, mas pode me chamar de Vinaum!
 - 👨‍🏫 I love to talk about Tech and Tech Education
 - 🌱 Life-long learner
 - 📫 vinicius.sartori@gmail.com
+- 🎓 <a href= "https://cursos.alura.com.br/user/vinaum/fullCertificate/2821a3600c4baf11ae98fc34662b45d5">Some Courses</a>
 
 
 <div align="center">
