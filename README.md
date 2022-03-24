@@ -5,7 +5,7 @@ Eu sou o Vinicius Campanha Sartori, mas pode me chamar de Vinaum!
 🇧🇷 🇵🇹
 - 🔭 Tech Recruiter na **Pier Seguradora**
 - 👨‍🎓 Engenheiro de Computação pela **UNICAMP**
-- 🖥️ Conhecimentos em C/C++, Python e Javascript
+- 🖥️ Stack principal: C/C++, Python e Javascript
 - 😄 Pronomes: Ele/Dele
 - 🤿 Estudo Golang, Ruby, Dart e Django
 - 👨‍🏫 Adoro falar sobre tecnologia e trocar conhecimentos em educação voltada para tech
@@ -16,7 +16,7 @@ Eu sou o Vinicius Campanha Sartori, mas pode me chamar de Vinaum!
 🇬🇧 🇺🇸 
 - 🔭 Tech Recruiter @ **Pier Seguradora**
 - 👨‍🎓 Computer Engineer @ **UNICAMP**
-- 🖥️ C/C++, Python & Javascript
+- 🖥️ Main Stack: C/C++, Python & Javascript
 - 😄 Pronoums: He/His
 - 🤿 Studying Golang, Ruby, Dart & Django
 - 👨‍🏫 I love to talk about Tech and Tech Education
