@@ -3,7 +3,7 @@
 Eu sou o Vinicius Campanha Sartori, mas pode me chamar de Vinaum!
 
 🇧🇷 🇵🇹
-- 🔭 Tech Recruiter na **Pier Seguradora**
+- 🔭 Tech Recruiter
 - 👨‍🎓 Engenheiro de Computação pela **UNICAMP**
 - 🖥️ Stack principal: C/C++, Python e Javascript
 - 😄 Pronomes: Ele/Dele
@@ -14,7 +14,7 @@ Eu sou o Vinicius Campanha Sartori, mas pode me chamar de Vinaum!
 - 🎓 <a href= "https://cursos.alura.com.br/user/vinaum/fullCertificate/2821a3600c4baf11ae98fc34662b45d5">Alguns cursos</a>
 
 🇬🇧 🇺🇸 
-- 🔭 Tech Recruiter @ **Pier Seguradora**
+- 🔭 Tech Recruiter
 - 👨‍🎓 Computer Engineer @ **UNICAMP**
 - 🖥️ Main Stack: C/C++, Python & Javascript
 - 😄 Pronoums: He/His
